@@ -3,6 +3,15 @@ html {
 }
 
 body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+  margin: auto;
+  font: 20px / 1 sans-serif;
+  width: 800px;
+  line-height: 1.2;
+}
+h1 {
+    color: purple;
+    text-align: center;
+}
+.accent-it{
+    color: red;
 }
